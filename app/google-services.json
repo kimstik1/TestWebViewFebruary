@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530004992047",
+    "project_id": "testwebview-9d174",
+    "storage_bucket": "testwebview-9d174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530004992047:android:7cbaa90212e2e62f4626da",
+        "android_client_info": {
+          "package_name": "com.visoft.testwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530004992047-7rsib3ii34nj0och5mhpovh35vj2k85u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATd3zzOhy9WqwIXBW8B3nT30UjV-GbITc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530004992047-7rsib3ii34nj0och5mhpovh35vj2k85u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

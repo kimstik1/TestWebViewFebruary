@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestWebView</string>
+
+    <string name="facebook_application_id">634103128039474</string>
+    <string name="fb_login_protocol_scheme">fb634103128039474</string>
+    <string name="facebook_client_token">3d0ccb3b7092995505ade9d3e8ece625</string>
+</resources>
